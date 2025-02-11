@@ -102,7 +102,7 @@ The Dynamic Movie Similarity Analyzer is a system that dynamically fetches movie
 
    ```
 
-### Backend Setup
+### Frontend Setup
 
 1. **Navigate to the Frontend Directory:**
 
