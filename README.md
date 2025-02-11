@@ -68,7 +68,7 @@ The Dynamic Movie Similarity Analyzer is a system that dynamically fetches movie
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bhaskar1612/Movie_Analysis.git
    cd backend
 
    ```
@@ -99,7 +99,7 @@ The Dynamic Movie Similarity Analyzer is a system that dynamically fetches movie
 
    ```bash
    uvicorn main:app --reload
-   
+
    ```
 
 ### Backend Setup
