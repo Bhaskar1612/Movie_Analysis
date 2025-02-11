@@ -1,0 +1,12 @@
+/* MovieSearch.css */
+.movie-search-container {
+    width: 100%;
+    max-width: 448px;
+    margin: 0 auto;
+}
+
+
+.movie-search-select {
+    font-family: Arial, sans-serif;
+    color: #000;
+}
